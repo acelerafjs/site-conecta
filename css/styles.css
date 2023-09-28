@@ -10860,6 +10860,9 @@ section {
 .app-badge1 {
   height: 4.4rem;
 }
+.app-badge2 {
+  height: 3.1rem;
+}
 
 #mainNav {
   padding-top: 1rem;
